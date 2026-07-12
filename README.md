@@ -6,7 +6,7 @@
   <a href="https://blog.wahsun.org"><img src="https://img.shields.io/badge/BLOG-00FF88?style=flat-square&logo=astro&logoColor=000" /></a>
   <a href="https://toolbox.wahsun.org"><img src="https://img.shields.io/badge/TOOLBOX-00FF88?style=flat-square&logo=telegram&logoColor=000" /></a>
   <a href="https://threads.wahsun.org"><img src="https://img.shields.io/badge/THREADS-00FF88?style=flat-square&logo=threads&logoColor=000" /></a>
-  <a href="https://sbx.wahsun.org"><img src="https://img.shields.io/badge/SBX-00FF88?style=flat-square&logo=wireguard&logoColor=000" /></a>
+  <a href="https://api.wahsun.org"><img src="https://img.shields.io/badge/API-00FF88?style=flat-square&logo=cloudflare&logoColor=000" /></a>
 </p>
 
 ```diff
